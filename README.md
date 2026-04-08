@@ -14,7 +14,7 @@ The algorithm is based on a SIGGRAPH 2025 research paper and has been ported fro
 * `simulations/` – Ready-to-run scripts featuring classic physical scenarios
 * `visualization/` – Tools for data export (VTK) and rapid 2D/3D prototyping using Matplotlib.
 * `tests/` – A comprehensive suite of unit tests
-* 
+  
 ## Installation
 
 1. Clone the repository:
