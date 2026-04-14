@@ -10,8 +10,7 @@ The algorithm is based on a SIGGRAPH 2025 research paper and has been ported fro
 ## 📺 Demo Animation
 
 <div align="center">
-  <video src="animation_IG3D_project_LFM_Svintsitska.mp4" width="100%" autoplay loop muted></video>
-  <p><i>Real-time vortical structures and fluid details captured using our LFM implementation.</i></p>
+  <video src="https://github.com/mavka2023/LFM-project-Sorbonne-IG3D/raw/main/animation_IG3D_project_LFM_Svintsitska.mp4" width="100%" autoplay loop muted playsinline></video>
 </div>
 ## 📁 Repository Structure
 
