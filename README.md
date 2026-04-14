@@ -7,7 +7,12 @@ A Python-based implementation of the **Leapfrog Flow Maps (LFM)** incompressible
 This project was developed as part of the **IG3D course at Sorbonne University**.
 
 The algorithm is based on a SIGGRAPH 2025 research paper and has been ported from the original low-level CUDA C++ codebase into a Python environment (using NumPy and SciPy).
+## 📺 Demo Animation
 
+<div align="center">
+  <video src="animation_IG3D_project_LFM_Svintsitska.mp4" width="100%" autoplay loop muted></video>
+  <p><i>Real-time vortical structures and fluid details captured using our LFM implementation.</i></p>
+</div>
 ## 📁 Repository Structure
 
 * `lfm/` – The core mathematical engine
